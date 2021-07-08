@@ -1,0 +1,4 @@
+name: Hub
+depend: [qLib, Atmosphere]
+main: net.skyhcf.hub.HubPlugin
+version: 1.0

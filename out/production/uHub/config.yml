@@ -1,0 +1,29 @@
+#
+# This config will be used sometime else.
+scoreboard:
+  title: '&b&lSkyHCF &7⎜ &rHub 01'
+  lines:
+    - '&7&m-------------------------'
+    - '&bOnline'
+    - '%player_count%'
+    - '&a&2&9'
+    - '&bRank'
+    - '%colored_rank%'
+    - '&b'
+    - '&7&owww.skyhcf.net'
+    - '&b&7&m-------------------------'
+scoreboard-queued:
+  title: '&b&lSkyHCF &7⎜ &rHub 01'
+  lines:
+    - '&7&m-------------------------'
+    - '&bOnline'
+    - '%player_count%'
+    - '&a&2&9'
+    - '&bRank'
+    - '%colored_rank%'
+    - '&b'
+    - '&bQueue &r(%queue%)'
+    - '&r%queue_position%/%total_queued%'
+    - '&9&1&e&4&8&9'
+    - '&7&owww.skyhcf.net'
+    - '&b&7&m-------------------------'
