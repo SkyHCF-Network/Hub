@@ -5,16 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb569a87-a438-49b2-b54a-701b5c2de4ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uHub/.idea/uHub.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uHub/libs/ClientAPI.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/nametag/NametagListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/commands/QueueInfoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/commands/QueueInfoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/HubPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/HubPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/listeners/HubListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/listeners/HubListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/menu/HubSelectorMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/menu/HubSelectorMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/menu/button/ServerButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/menu/button/ServerButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/scoreboard/HubScoreGetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/scoreboard/HubScoreGetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/tab/HubTabLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/src/main/java/net/skyhcf/hub/tab/HubTabLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/target/classes/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/target/classes/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/HubPlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/HubPlugin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/listeners/HubListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/listeners/HubListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/menu/HubSelectorMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/menu/HubSelectorMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/menu/button/ServerButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/menu/button/ServerButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/scoreboard/HubScoreGetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/scoreboard/HubScoreGetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/tab/HubTabLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/target/classes/net/skyhcf/hub/tab/HubTabLayout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uHub/uHub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../uHub/uHub.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../uHub" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1qLSF3wuZRxUCKrb4WRRtjB3g4e" />
   <component name="ProjectViewState">
@@ -25,14 +65,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../MC Plugins or Spigots or SRC/PotPvP" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.16308594" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SoNot\Desktop\SkyHCF Stuff\skyhcf\skyhcf\uHub\libs" />
       <recent name="C:\Users\duelz\OneDrive\Desktop\skyhcf\uHub\src\main\java" />
       <recent name="C:\Users\duelz\OneDrive\Desktop\skyhcf\uHub\src\main\resources" />
       <recent name="C:\Users\duelz\OneDrive\Desktop\skyhcf\Hub\src\main\resources" />
@@ -47,7 +91,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616857270014</updated>
+      <workItem from="1625766199167" duration="687000" />
+      <workItem from="1626290361661" duration="159000" />
+      <workItem from="1626290536218" duration="184000" />
+      <workItem from="1626290728072" duration="150000" />
+      <workItem from="1628083138506" duration="9000" />
+      <workItem from="1628889681375" duration="921000" />
+      <workItem from="1628969766635" duration="7000" />
+      <workItem from="1628981381440" duration="13000" />
+      <workItem from="1629104961330" duration="600000" />
+      <workItem from="1629815007546" duration="3057000" />
+      <workItem from="1630082176067" duration="594000" />
+      <workItem from="1631825308440" duration="855000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
